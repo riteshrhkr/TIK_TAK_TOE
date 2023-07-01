@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic-Tac-Toe</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li>TicTakToe.com</li>
+        </ul>
+    </nav>
+
+    <h2>TIK TAC TOE</h2>
+    <!-- Game Container -->
+    <div class="gameContainer">
+        <!-- Container that will have 9 boxes -->
+        <div class="container">
+            <!-- To draw line when game is over -->
+            <div class="line"></div> 
+            <!-- 9 boxes -->
+            <div class="box bt-0 bl-0"><span class="boxText"></span></div>
+            <div class="box bt-0"><span class="boxText"></span></div>
+            <div class="box bt-0 br-0"><span class="boxText"></span></div>
+            <div class="box bl-0"><span class="boxText"></span></div>
+            <div class="box"><span class="boxText"></span></div>
+            <div class="box br-0"><span class="boxText"></span></div>
+            <div class="box bl-0 bb-0"><span class="boxText"></span></div>
+            <div class="box bb-0"><span class="boxText"></span></div>
+            <div class="box bb-0 br-0"><span class="boxText"></span></div>
+        </div>
+
+        <!-- Container have game related information -->
+        <div class="gameInfo">
+            <span id="playerInfo">Turn for Player:- X</span>
+            <img id="excitedImg" src="res/excited.gif" alt="" srcset="">
+            <button id="resetBtn">Reset</button>
+        </div>
+
+        <!-- image container -->
+        <!-- <div class="imgBox">
+        </div> -->
+    </div>
+
+    <script src="javascript/script.js"></script>
+</body>
+
+</html>
