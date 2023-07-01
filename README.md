@@ -2,9 +2,9 @@
 This game is developed using HTML, CSS and JavaScript.
 
 ## Dekstop View
-![Desktop View](projectImages/desktopView.png)
+![Desktop View](desktopView.png)
 
 ## Mobile View
-![Mobile View](projectImages/mobile.png)
+![Mobile View](mobile.png)
 
 
