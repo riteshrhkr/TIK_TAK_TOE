@@ -5,6 +5,6 @@ This game is developed using HTML, CSS and JavaScript.
 ![Desktop View](desktopView.png)
 
 ## Mobile View
-![Mobile View](mobile.png)
+![Mobile View](mobileView.png)
 
 
