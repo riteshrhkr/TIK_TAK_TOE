@@ -1,6 +1,6 @@
 # TIK_TAK_TOE
 
-
+The game is created using HTML, CSS and Javascript
 
 ## Dekstop View
 ![desktopView](https://github.com/riteshrhkr/TIK_TAK_TOE/assets/137643945/64b0287c-a8f2-4c98-834e-d443a1fae738)
